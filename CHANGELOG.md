@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+[2021-02-24] Version 1.3.10
+---------------------------
+**Library - Chore**
+- [PR #103](https://github.com/sendgrid/smtpapi-csharp/pull/103): add targets for .NET Standard to support .NET Core. Thanks to [@thinkingserious](https://github.com/thinkingserious)!
+
+
 [2020-08-19] Version 1.3.9
 --------------------------
 **Library - Chore**
